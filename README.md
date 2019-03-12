@@ -1,1 +1,1 @@
-Made site for learning and practising Html and Css.
+Site made from Html and Css.
